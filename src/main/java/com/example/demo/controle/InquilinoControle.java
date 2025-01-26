@@ -15,7 +15,7 @@ import com.example.demo.repositorio.servico.dto.InquilinoResponseDTO;
 import com.example.demo.repositorio.servico.dto.mapper.InquilinoMapper;
 
 @RestController
-@RequestMapping("/inquilino/**")
+@RequestMapping("/inquilino")
 public class InquilinoControle {
 	
 	@Autowired
