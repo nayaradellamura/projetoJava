@@ -1,4 +1,4 @@
-# 📺 Sistema Filmes e Séries
+# 📺 Projeto Java - Demo
 
 Projeto para estudo pessoal
 <br/>
