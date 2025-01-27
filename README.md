@@ -4,15 +4,11 @@ Projeto para estudo pessoal
 <br/>
 <br/>
 
-# 🕵️‍♂️Funcionalidades
-
-- 
-<br/>
-<br/>
 
 # 🛠Tecnologias Utilizadas
 
-- Java: Programação Orietada Objeto
+- Java
+- PostgreSQL
 <br/>
 <br/>
 
